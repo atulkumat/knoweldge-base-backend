@@ -1,0 +1,21 @@
+en:
+  hello: "Hello world"
+  mailer:
+    group:
+      member_added: 'You have been added to a new group'
+      member_removed: 'You have been removed from a group'
+      promoted: 'Congratulations you have been promoted'
+      demoted: 'Admin rights revoked'
+      user_present: 'Already present in the group'
+      role_should_be_member: 'The user already have admin rights'
+  invalid_credentials: "Invalid Email or Password"
+  confirm_email: "Please confirm your email"
+  already_upvoted: "Already upvoted"
+  already_downvoted: "Already downvoted"
+  comment_created: "Comment on Post"
+  comment_downvoted: "DownVote on comment"
+  comment_upvoted: "Upvote  on comment"
+  comment_accepted: "Comment accepted"
+  upvote_post: "Upvote on post"
+  downvote_post: "Downvote on post"
+  
